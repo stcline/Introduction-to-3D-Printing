@@ -1,4 +1,3 @@
-```markdown
 # EDD 3D Printing and Additive Manufacturing
 
 Welcome to the 3D Printing and Additive Manufacturing unit.
@@ -131,4 +130,3 @@ Before printing, ask:
 6. What will happen to the object when it is no longer needed?
 
 > The goal is not to print more objects. The goal is to design better objects.
-```
