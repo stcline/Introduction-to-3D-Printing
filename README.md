@@ -42,8 +42,8 @@ By the end of this unit, you should be able to:
 
 | Lesson | Title | What You Will Do |
 |---:|---|---|
-| 1 | [What Is Additive Manufacturing?](phase1-lessons.md#lesson-1-what-is-additive-manufacturing) | Compare additive, subtractive, and formative manufacturing. Learn about major types of additive manufacturing and where FDM printing fits. |
-| 2 | [From CAD Model to FDM Print](phase1-lessons.md#lesson-2-from-cad-model-to-fdm-print) | Follow the workflow from an Onshape model to a printed object. Learn printer anatomy, slicer basics, first-layer inspection, and lab safety. |
+| 1 | [What Is Additive Manufacturing?](https://github.com/stcline/Introduction-to-3D-Printing/blob/main/lesson-01-additive-manufacturing-overview.md) | Compare additive, subtractive, and formative manufacturing. Learn about major types of additive manufacturing and where FDM printing fits. |
+| 2 | [From CAD Model to FDM Print](https://github.com/stcline/Introduction-to-3D-Printing/blob/main/lesson-02-cad-model-to-fdm-print.md) | Follow the workflow from an Onshape model to a printed object. Learn printer anatomy, slicer basics, first-layer inspection, and lab safety. |
 
 ### Phase 2: Materials, Humidity, and Environmental Responsibility
 
