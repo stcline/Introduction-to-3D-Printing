@@ -107,7 +107,7 @@ FDM is one type of additive manufacturing. It is not another name for every kind
 
 Copy the table below into your engineering notebook. For each category, add one example product or application.
 
-| Additive-manufacturing category | Basic process | Typical materials | Example application |
+| Additive-manufacturing category | Basic process | Typical materials | Example application and drawing |
 |---|---|---|---|
 | Material extrusion | Melted or softened material is deposited through a nozzle | PLA, PETG, TPU, nylon |  |
 | Vat photopolymerization | Light cures liquid resin layer by layer | Photopolymer resin |  |
